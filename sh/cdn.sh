@@ -1,5 +1,5 @@
 #/bin/sh
-links="http://jb.suparo.cn"
+links="https://qq330375913.github.io/bt"
 files="/root/s-hell"
 tmpfile="/root/btinstall-tmp" 
 {
