@@ -6,7 +6,7 @@ source $files/config
 clear
 echo -e "————————————————————————————————————————————————————
 	        \033[32mBT一键脚本-安装菜单\033[0m
-	           bt.wqh227.win
+	           bt.https://qq330375913.github.io
 	   Copyright © 2017-2018 wqh227
 ————————————————————————————————————————————————————"
 wget -q -T 5 -O panel.zip $DOWNLOAD_CDN_URL/mb/panel.zip
